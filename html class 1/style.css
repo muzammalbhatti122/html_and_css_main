@@ -1,0 +1,47 @@
+
+
+h1{
+    color: red;
+    border-bottom: 1px solid blue;
+}
+
+h2{
+    color: blue;
+
+}
+
+h3{
+    color: green;
+}
+
+h4{
+    color: yellow;
+}
+
+h5{
+    color: aqua;
+}
+
+h6{
+    color: black;
+    font-size: 1.8rem;
+    background-color: aqua;
+}
+
+div{
+    width: 400px;
+    height: 400px;
+    background-color: yellow;
+    border-radius: 0px;
+    transition: 3s linear 0s;
+}
+
+div:hover{
+    transform: rotate(45deg);
+}
+
+
+
+body{
+    background-color: purple;
+}
